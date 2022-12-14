@@ -1,9 +1,9 @@
 <h1 align="center">Hola! 👋, soy Facundo</h1>
 <h3 align="center">Un estudiante de programación en camino a convertirse en Desarrollador Android</h3>
 
-- 🌱 Actualmente estoy aprendiendo: **Kotlin, SQL, PHP**
+- 🌱 Actualmente estoy aprendiendo: **Kotlin**
 
-- 💬 Podemos hablar sobre **Java, C, POO, HTML/CSS**
+- 💬 Podemos hablar sobre **Java, C, POO, HTML/CSS, SQL y PHP**
 
 - 📫 Como contactarme? **ferrarifacundo@outlook.com**
 
