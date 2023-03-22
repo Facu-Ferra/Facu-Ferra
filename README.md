@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Facundo</h1>
 <h3 align="center">Un estudiante de programación en camino a convertirse en Desarrollador Android</h3>
 
-- 🌱 Actualmente estoy aprendiendo: **Kotlin**
+- 🌱 Actualmente estoy aprendiendo: **Spring Boot + Angular**
 
 - 💬 Podemos hablar sobre **Java, C, POO, HTML/CSS, SQL y PHP**
 
